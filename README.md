@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Shahbaz
 - 👀 I’m interested in Frontend web development
 - 🌱 I’m currently learning javaScript and React
-- 💞️ I’m looking to collaborate on with you
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me shahbazmohammed2000@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: EasyCode
